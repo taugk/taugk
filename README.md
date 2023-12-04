@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @taugk
+- 👋 Hi, I’m taufik nurul hidayat
 - 👀 I’m interested in website development
 - 🌱 I’m currently learning universitas kuningan
 - 💞️ I’m looking to collaborate on ..
