@@ -57,7 +57,7 @@ I'm a fresh graduate in **Information Systems** from Universitas Kuningan, passi
 
 <div align="center">
 
-![taugk's GitHub stats](https://github-readme-stats.vercel.app/api?username=taugk&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/taugk?cardType=level-alternate&theme=slateorange&fontFamily=Albert%20Sans&preferLogin=false)](https://git.io/awesome-stats-card)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taugk&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
